@@ -1,0 +1,604 @@
+In January 2012, almost two years after their graduation from the Wharton School, Neil Blumenthal and David Gilboa found themselves running Warby Parker from a SoHo office staffed with 50 employees.
+In two years, the eyewear company had gone from selling eyeglasses to over per year.
+What began with a common complaint—the high cost of designer eyewear— had become a successful company with a social mission to increase access to prescription eyewear around the world.
+Both Blumenthal and Gilboa were aware that the company’s long-term strength would rely on decisions made during its first two years.
+The two friends remembered how in 2010, while they struggled to find time for classes, a small team worked from Blumenthal’s apartment in Philadelphia.
+They were proud to see that despite the company’s growth, the ethos of that initial team remained.
+They could not help but wonder, however, if the company culture would change by the end of 2012, when the team size was expected to reach 100 employees.
+The founders also pondered other challenges that had come with growth, like the need to move from a word-of-mouth strategy to a more intentional marketing effort and to increase the company’s manufacturing partner base.
+At the outset of 2012, the founders knew that the company’s long-term strength would rely on their decisions following the momentum created by Warby Parker’s first two years.
+In September 2008, Neil Blumenthal, David Gilboa, Andrew Hunt, and Jeffrey Raider met at the Roosevelt Pub near the Wharton School, where all four were students Exhibit 1 for founders’ backgrounds)
+Gilboa had lost his eyeglasses and, in seeking out a new pair, had been appalled at the high retail cost of designer eyewear—around
+Raider shared a similar experience; he too had balked at the price of stylish glasses and, despite a five-year outdated prescription, could not bring himself to purchase a new pair.
+As the former director of a nonprofit that delivered eyeglasses in developing countries, Blumenthal had witnessed firsthand the gap between the eyewear industry’s manufacturing costs and retail prices.
+As the four discussed the search for lower-cost options, Hunt posed an apt question: why had glasses not joined other consumer product categories in leveraging e- commerce as a solution?
+They quickly realized that they had stumbled upon a viable way to solve this consumer pain point” by providing eyewear at a fraction of the cost through online distribution.
+Each returned to class the next day eager to reconnect after a sleepless night mulling over the idea.
+Between classes at Wharton, they went on to spend the next 17 months preparing to launch Warby Parker.
+Preparation started with industry research.
+Eyewear was a multibillion-dollar market largely dominated by two vertically integrated companies: Luxottica Group SpA and Essilor International SA
+Online penetration was low relative to other retail categories and growing wholesalers, and brick-and-mortar stores—had further strengthened the role of the two sector leaders.
+Luxottica held eyewear licenses to most of the major fashion brands—including Ralph Lauren, Chanel, and Prada—and owned optical brands like Oakley, Ray-Ban, Oliver Peoples, and Persol.
+
+With Luxottica dominating the frame portion of the optical industry, Essilor was the largest optical lens wholesaler in the U.S. holding of the wholesale optical industry.
+Essilor produced lenses and coatings, selling lenses directly to optical retailers along with lab services and inserting lenses into frames) through the more than 70 U.S. labs it had acquired as of 2011.5
+The two companies were also trying to navigate the online space: Luxottica entered into a multiyear partnership with the second-most important online optical retailer—Vision Direct—in 2009, and in 2010, soon after Warby Parker’s launch, Essilor acquired a majority stake in the company that operated the FramesDirect.com website, the fourth-most important player in the U.S. optical online retail industry.
+The founders of Warby Parker identified the opportunity created by the lack of branded, high- quality, and low-priced eyewear.
+They set out to offer eyeglasses with anti-reflective polycarbonate prescription lenses by avoiding traditional industry costs.
+In Blumenthal’s words, Companies like Luxottica were marking up frames—just the frames, not the lenses— between X and X from point of manufacture to point of sale.
+When you go to an optical shop and select a frame, the frame probably came from Luxottica.
+The optical shop then mails that frame to an optical lab, likely owned by Essilor, where Essilor lenses are cut and inserted.
+Then the completed glasses are shipped back to the optical shop and sold to you at a X to X retail margin.
+We thought we could lower prices by bypassing the frame companies and optical shops by selling directly to consumers online and that this was an inherent good because we could potentially transfer billions of dollars from these big companies to normal consumers and, in the process, serve as an example of a socially responsible business.
+In order to facilitate online shopping to a customer base unfamiliar with buying glasses online, they combined customer-friendly policies, like free shipping and a -day questions asked” free return policy, with creative ways for customers to on” glasses.
+They licensed the best virtual try- have the option to select up to five frames that would be shipped to them for free, allowing them to try on pairs in the comfort of their own home.
+They would be able to keep the glasses for one week before sending them back to Warby Parker no cost) with the subsequent opportunity to make a purchase.
+The company was also the first in the optical industry to integrate the one-for-one donation model across all product lines.
+Convinced of the need to disrupt the optical sector, the founders knew Warby Parker had the potential of both benefiting eyewear consumers and becoming a large, impactful business.
+Blumenthal noted, is a big industry; it is about billion in prescription eyewear alone.
+In January 2009, the founders took an entrepreneurship class during their second semester at Wharton.
+It was here that they evolved their initial idea into what would become Warby Parker: a technology-enabled eyewear fashion brand that does good in the world.
+Having been warned about the dangers of launching a business with friends, the founders set standards to ensure that they would work hard while maintaining their friendships.
+Warby Parker, they promised themselves, would never become a hydra.
+Although the four founders were involved in all areas of the business, responsibilities were initially divided into two core areas.
+Gilboa and Raider focused on operations, including customer service, order fulfillment, and legal and finance.
+Blumenthal and Hunt worked on marketing, branding, eyewear design, website user experience, and the social mission.
+They invested equal amounts and correspondingly divided equity.
+Realizing the various professional and personal opportunities that would be available to them during business school, they set up a monthly vesting schedule running until graduation in May 2010.
+
+Should an issue divide the founding team in half, they would ask one of their earliest advisers, Wharton Marketing Professor David Bell, to cast the deciding vote.
+The founders would also conduct monthly -degree review sessions together to provide constructive feedback and ensure that any issues that could affect their working dynamic surfaced quickly.
+Early on, the founders recognized the importance of building a brand as a competitive advantage.
+They decided the brand would stand for classic, American heritage design, exceptional value, amazing customer service, and social good.
+During the process of naming Parker, the founders created a list of more than potential company names over six months.
+It was while browsing a Jack Kerouac exhibit at the New York Public Library that Gilboa took note of two memorable names in the author’s unpublished journals: Warby Pepper and Zagg Parker.
+The founders agreed that Kerouac, a Beat Generation author, represented the literary spirit and disruptive ethos that they envisioned for their brand, and concocted the Parker” moniker by combining the two character names.
+Although Warby Parker’s aesthetic identity and social mission had been clear components of the brand since the beginning, the founders recognized the need to prioritize the four brand pillars, or stories, that it wanted to share with customers.
+They decided upon the following brand hierarchy: customer-friendly policies. 4. Social mission: for every pair of glasses sold, Warby Parker would distribute a pair to someone in need.
+The founders’ ordering of the above messages was the result of discussions about the purchase calculus of potential customers, namely, that customers bought glasses first and foremost for they looked on their faces.
+By the middle of their second semester at Wharton, the founders had identified three prerequisites for the Warby Parker launch: a collection, a website, and the attention of the fashion world.
+With the goal of launching by September 2009, they began to design an initial collection and located a frame manufacturer in China that matched the company’s values.
+In the summer of 2009, Raider—who had promised to return to his pre-MBA employer upon graduation—worked on the business full time while the others juggled their Warby Parker responsibilities with internships.
+The founders compensated him with the proceeds from the Wharton Venture Award and a promise to more than double that amount if the company succeeded.
+With the first collection completed by the end of 2009, an official launch was delayed by issues in the development of the website.
+In the meantime, the company sold glasses to classmates through paper orders and hosted a trunk show in Hunt’s apartment.
+The company quickly evolved to hire a full-time designer and two contractors with extensive experience in optical and fashion design.
+They also collaborated with factory industrial designers and experimented with concept samples on a variety of individuals to round out the design process.
+By the end of January 2012, the company had released two optical collections and one sun collection.
+The names of the frames were often inspired by literary and military heroes.
+The 2010 collection of 27 eyeglass styles and one monocle combined best-selling, fashion-forward frames like the and Exhibit with a few editorial pieces like the in Bondi Blue” and the in Checkered Revolver” Exhibit 5
+All styles were guided by the Warby Parker design dictum of producing anything we would be embarrassed to see in a photo of ourselves 20 years later.
+Inspired by the success of bolder frames, the 2011 collection incorporated 14 new styles that aimed to combine wearability with bolder shapes and colors.
+Frames like the and well as innovative colors like and Blue”attempted to lift customers out of their comfort zone while retaining the wearable essence of the first collection Exhibit 6 for some 2011 collection frames and Exhibit 4 for best-sellers of the 2010 and 2011 collections)
+In June 2011, the company launched its first sun collection, with nine sunglass designs.
+The third optical collection, released in February 2012, combined bolder designs with more basic ones in order to create options for guy that wants to wear Warby Parker glasses and a suit to work, as Blumenthal put it.
+With this audience in mind, Warby Parker sought to expand into metal frames.
+Once a technical drawing was finalized, factories carved frames out of sheets of acetate.
+Unlike plastic, cellulose acetate could not simply be melted and fed into a metallic mold.
+The use of acetate, however, was necessary from the founders’ perspective. with titanium and a few alloys, Blumenthal explained, is simply the best-quality material for producing eyeglasses frames.
+Warby Parker acetate primarily came from a family-owned Italian producer that operated in Italy and Asia.
+The company’s direct relationship with its raw material supplier was rare in the industry; most eyewear wholesalers and retailers relied on their manufacturers’ relations with the first link of the supply chain.
+Frames were then cut and assembled in two Chinese factories.
+In January 2012, Warby Parker sought to expand its supplier base, prioritizing factories that had more automated processes and that shared Warby Parker’s values.
+As Blumenthal explained, the founders selected factories based on those values.
+He elaborated: For example, their management actually has equity in the company, which is very rare in China.
+They have basketball leagues for their employees.
+One factory has free yoga lessons and the other has weekly trips to the beach for employees.
+And, we’ve personally visited and continue to visit our factories to ensure that those values remain aligned.
+The final step in the production process took place in two optical labs in New York where premade lenses were edged and inserted into the frames.
+The decision to utilize stock lenses rather than surfacing the prescription into lenses significantly reduced costs.
+Although Warby Parker offered some of the best lenses in the market—made from polycarbonate and with features like impact resistance and non-glare coating—the company chose not to provide certain types of lenses, like progressives.
+Progressive and bifocal lenses were more complicated to fit and tended to have higher return rates industrywide, so the decision was made to wait to introduce them at a later date.
+In January 2012, Warby Parker began to assess the opportunity of expanding its offerings into progressive lenses, which, according to company research, made up to of the eyewear market.
+Given their belief in Warby Parker, the four founders initially funded the business with their personal savings.
+Following the launch, however, a growing need for inventory and unfavorable supplier payment terms highlighted the need for more capital.
+In February 2010, the founders were forced to temporarily suspend the home try-on program—a fact that they believed would undervalue the company’s worth—and therefore decided that it was too early to begin the process of raising external capital.
+With proven market traction, as evidenced by a wait list of over customers, the founders felt confident about securing bank loans.
+Unexpectedly, however, it took until June 2010 to obtain a loan from a bank—a loan that they had to collateralize with the same amount of cash.
+A second loan was secured only after having been turned down by a total of 15 banks, when a personal relationship led them to a community bank that sponsored the company for a U.S. Small Business Administration loan.
+In October 2010, after a four-month wait, the loan was realized.
+A month later, the company issued a capped convertible note of to friends and family.
+Those funds were used to expand inventory, resume the home try-on program, and grow the team beyond the first 2 employees to just over 10.
+Between November 2010 and March 2011, sales tripled, and inventory levels were, once again, too low.
+At this point, Warby Parker decided to accept offers from external investors.
+The first investment round, completed in May, totaled million and featured offers from about 30 investors, including prominent venture capital firms.
+The founders selected investors that belonged to various communities of interest to Warby Parker—investors whose values were aligned with those of the company.
+Elaborating on the decision to reject some offers, Gilboa remarked that felt really great about the vision that we had as a founding team and wanted to keep as much control as possible.
+Besides, we wouldn’t have known what to do with the million checks that large VCs offered us and they would have always wanted us to continue pushing capital into the business.
+Toward the end of 2011, with heightened concerns about volatility in financial markets, the founders decided to accept proposals from various investors.
+The company raised million from investors, including Tiger Global Management Exhibit 7 for list of investors)
+The founders were drawn to the investor’s e-commerce portfolio, its large capital pool, and, most importantly, its
+In Blumenthal’s words, Global invests to add value and support passionate founding teams without being overly intrusive.
+Lee Fixel, the managing director of Tiger Global, became Warby Parker’s fifth board member.
+In keeping with the company’s priority to present itself as a fashion brand, the founders recognized the importance of debuting with the two highest-profile fashion vehicles: GQ and March issue of GQ.
+At this point, they focused their attention on getting a consumer-ready website up and running by the end of February.
+Several days before February 15, 2010, however, they were told that GQ would reach subscribers on that very day.
+Blumenthal explained, We literally had to launch the website at 3 a.m. on February 15.
+We didn’t tell our friends because we didn’t know how the website would hold up.
+On that day GQ called Warby Parker Netflix of eyewear” and Vogue released an article about us.
+Two days later we were in Daily Candy, before we even had a chance to reach out to them. that somewhat deliberate perfect storm, the orders started to pour in.
+In the middle of class at 10 a.m. on February 15, Gilboa’s phone warned him: the first online order had just been placed.
+In Gilboa’s words, had this amazing feeling of jubilation and thought, company is real.
+By the end of class, orders had been coming in every few minutes and I started to worry because we just didn’t have enough glasses.
+Gilboa convened an emergency meeting: with only pairs of glasses and no sold-out functionality in the website, Warby Parker would soon be accepting more orders than it could fulfill.
+Exacerbating inventory constraints were distribution issues for the home try-on program.
+The optical labs, which initially handled all order fulfillments, were unable to handle such a high order volume.
+At the emergency meeting, Raider reasoned, keep taking orders, we’ll apologize later.
+We can’t turn away our first customers!
+As they discussed the merits of continuing to accept orders, Gilboa’s phone continued to buzz, alerting him that 10 more orders had been placed during the first two minutes of the conversation.
+An immediate consensus was built to stop taking orders, and a call was placed to the company’s website developer to create sold-out functionality and a waiting list.
+The founders also suspended the home try-on program, which would not be reactivated until November 2010.
+Three weeks after its launch, Warby Parker had hit its first-year sales target.
+A week later, the waiting list amounted to more than customers.
+As Raider predicted, the founders spent the following weeks apologizing to customers through personalized e-mails and phone conversations.
+Gilboa explained, do you communicate to customers that we are out of inventory and may not have glasses for several months?
+Practicing one of the company’s core values, the founders opened an honest and direct line of communication with customers, who, for the most part, were sympathetic.
+One customer who had been waiting for his glasses for three weeks turned out to be the CEO of a logistics company called Navarre
+In June 2010, the two companies entered a partnership in which Navarre received all product shipments from China, performed quality controls, and handled the inventory.
+Navarre also managed all distribution logistics for the home try-on program, customer orders of frames with demo lenses, and optical lab frame requirements.
+Labs in turn maintained appropriate inventory levels to fulfill orders of prescription eyeglasses.
+In February 2011, comparable inventory issues occurred when the New York Times featured Warby Parker in an article.
+The company then hired Molly Rhodes, manager of special operations, to focus on supplier relations and inventory forecasting in order to solve what Blumenthal described as failure of imagination on how quickly Parker] can grow.
+The company then began to define inventory levels based on forecasts of the company’s overall sales target and the historical performance of each stock-keeping unit, preparing to meet needs if actual sales were to exceed the forecast by 5
+The company’s first employee, Mara Castro, joined the company in December 2009 to help the founders process customer orders.
+Interested in the company’s approach to doing good in the world, Castro went from working 15 hours during her first week to 100 hours by the third.
+After the launch in February 2010, a second customer experience associate joined her.
+The company continued to grow through 2010, adding customer experience associates, an eyewear designer, an in- house website developer, and a director of online experience.
+Until January 2011, the team size hovered at close to 10 employees.
+The company’s second employee, Colleen Tucker, explained, At first there were about seven of us in Neil’s apartment talking to customers on our cellphones and constantly coming up with better ways of doing things.
+We talked to customers as you would a friend and were given a lot of autonomy by the founders as we tried to provide the best customer experience possible.
+We sat in tight quarters, in an open office, and were all friends who worked hard together. and fun were huge elements of that first office.
+The founders graduated from the Wharton School in May 2010, three months after Warby Parker launched.
+Although they all wanted to remain on the board of directors, their intention had always been for only one or two to run the company.
+While Raider had promised to return to his pre-MBA employer, the other founders were faced with a choice.
+Given his passion for Warby Parker, Blumenthal decided early on that he would take on a full-time role in the company.
+Despite Hunt’s interest in Warby Parker, he eventually decided to follow his passion for venture capital.
+For Gilboa, the launch experience was a key deciding factor.
+He explained, things started to feel more tangible, the opportunity of creating an organization became more exciting than developing an existing one.
+It worked out well because, if there were going to be two of us to stay on, it made sense to have one from each of the two core responsibility areas.
+In September 2010, the company moved to its first office in New York City, a decision that both reflected and furthered Warby Parker’s identity as a fashion brand.
+By January of the following year, only 11 months after its launch, Warby Parker had sold about pairs of glasses and donated the same amount.
+The pace of hiring increased.
+During the inventory crisis—while the home try-on program was suspended—customers began calling the Warby Parker office, then located in Blumenthal’s apartment, to ask if they could see the frames.
+That experience inspired Warby Parker’s initial trunk shows and led to the notion of having a physical retail presence above and beyond the website.
+Explaining Warby Parker’s decision to utilize showrooms, Gilboa and Blumenthal wrote, companies think about being online or bricks-and- mortar, like it’s black or white. forget what they’re trying to do is serve customers.
+So even though we originally thought of ourselves as a technology-enabled fashion brand, we’ve gradually been finding ways to let our customers physically interact with our products.
+In addition to devoting a segment of its New York City headquarters to a showroom, the company partnered with select boutiques across the country to offer the entire Warby Parker collection.
+Warby Parker paid rent for the space while giving showroom hosts a commission for glasses sold.
+Customers still needed to buy the glasses online, either by using the boutique’s in-store iPad or by ordering from their home computer, indicating the boutique’s promotional code in order to obtain a discount.
+In early 2012, only two of the nine Warby Parker showrooms featured Warby Parker retail associates Exhibit 8 for a list of showrooms)
+The other seven were serviced by boutique staff members trained by Warby Parker in selling eyewear and navigating the online purchase.
+In early 2012, Warby Parker was beginning to seriously consider its showroom strategy for the future: would it continue to partner with select boutiques across the country, open more showrooms similar to its New York City headquarters, or design a flagship retail store?
+According to the June 2011 customer survey, the majority of website visitors had heard about the brand through a friend, colleague, or family member.
+The next two most popular sources were print media articles and online blogs and articles.
+In January 2012, the company sought to develop its first integrated online and offline marketing strategy.
+In 2011, the company’s marketing strategy focused on a few creative events to simultaneously raise brand awareness and offer customers the opportunity to view the frames in person.
+For Fashion Week in September 2011, Warby Parker models and friends wearing various brand styles over the New York Public Library” by simultaneously raising robin’s-egg-blue books titled with the name of the style they were wearing. Between the end of 2011 and the first week of 2012, the company set up the Warby Parker Holiday Spectacle Bazaar—a temporary installation that offered eye exams and displayed all of its frames.
+Also in December 2011, the company customized blue bicycles with front display vitrines that showcased 15 frames available for immediate purchase while driving around the Miami Art Basel grounds Exhibit 9 for photos of these events)
+Warby Parker’s success in the segment also invited the inevitable copycats—some of whom even went so far as to copy duplicate elements of the company website.
+The most public example of these events involved Eyefly’s use of a Warby Parker photo on its website Exhibit Warby Parker’s response to this type of competition was, in Blumenthal’s words, to to look forward and innovate: copycats can stay behind.
+ The online eyewear retail category continued to grow as online optical leaders like -Contacts.com and Coastal Contacts added eyewear to their product mix in 2011.21 In January 2012, Warby Parker had 50 employees.
+The company planned to hire about 50 more throughout the year in order to keep up with growth projections based on annual sales increasing from glasses to in one year.
+Although customer experience associates made up the majority of new hires in the first two years, other areas of the company began to expand significantly in 2012.
+The technology team, for example, went from two to six employees during the first week of 2012, and the financial team was duly expected to grow from three to five employees during the first months of that year.
+Customer experience hiring levels would also need to balance current needs with an expected increase in automated processes.
+In addition to increasing the company’s overall hiring volume, Warby Parker sought experienced candidates to lead the areas of finance, technology, marketing, and supply chain management.
+Steve Miller, the company’s CFO and first such senior-level employee, joined the team in September 2011 after years of CFO and business development experience in the financial technology field.
+Miller commented, positions are currently filled by tremendously talented young people, but the company is now looking to hire a couple of folks who can say there, done that.
+Despite significant growth in two years—and a move from Blumenthal’s Philadelphia apartment to a loft-style office in SoHo—Warby Parker was able to successfully retain the elements of friendship, fun, teamwork, and transparency that shaped the company culture.
+The founders were careful to institute mechanisms with this purpose in mind.
+The initial team, for example, compiled a list of core values like our work and our impact seriously, but not ourselves” Exhibit 3 for the company’s core values)
+Each department shared large tables, and only one room in the office was reserved for closed-door meetings.
+The co-CEOs communicated goals internally through formal meetings and company social events.
+Employees described the company as having a atmosphere” where are not just coworkers, but friends.
+To further spur physical interactions—and to provide a visual analogue of the company’s commitment to transparency—the SoHo showroom was constructed adjacent to the customer experience workspace, allowing customers to witness the daily operations of the company.
+Equally important to maintain, the founders agreed, were the twin rules of always trust and positive intent” and honest, but difficult conversations” Exhibit 3
+This ethos was maintained via ongoing, immediate feedback; monthly informal feedback sessions; and quarterly -degree reviews, which followed the best practices established by the founders when there were only four of them.
+Castro explained, ask customer experience associates to give each other feedback if they overhear someone answer a question incorrectly. Noting the importance of culture in the company, Castro observed that you’re growing too fast, you might lose sight of who you are.
+As the first employee, Castro emphasized the need to sure that the politics you see in most large companies stay out of the picture despite our growing size, and that team members to grow and have fun together.
+The customer experience associate position served as the starting point for most roles in the company, helping to reinforce a customer-centric culture and ensure a steady flow of talent.
+After establishing a candidate’s competency, the focus of interviews advanced to the question of whether an applicant would be a harmonious fit with the company culture.
+By January 2012, two years of operations experience had clarified the traits of successful hires.
+Adaptability, a strong work ethic, and intelligence all contributed to a successful hire; a devotion to delivering exceptional customer service and value, and a social mission were also essential.
+In addition, candidates needed to display mastery of the English language, which, as Blumenthal pointed out, was rarity given the tendency of many companies to off-shore their customer service to reduce costs.
+Castro and Tucker were in charge of hiring, and both collaborated with the heads of other divisions in order to hire people who could eventually grow into different parts of the company.
+As the customer experience team grew, company leadership realized that the as you go” training approach employed during Warby Parker’s first year needed to change.
+The company started to develop product- and process-specific training methods: flash cards featuring different frames and colors, for example, as well as more formal sessions about reading and interpreting eyeglass prescriptions, general eye health issues, and the steps in processing orders.
+Warby Parker also sought to make the onboarding process about, as Tucker put it, a new hire to feel like a part of something amazing.
+The company developed an online interactive microsite to welcome hires a week prior to their start date.
+The site included a letter from the founders, the list of core values, details on company social events—like weekly lunches with four randomly selected employees—and a list of benefits and perks, such as weekly catered lunches, health insurance, and reimbursements for cell phones and monthly gym plans.
+In the new onboarding process, a hire’s first day of work featured a festive welcome package, including items like Jack Kerouac’s The Dharma Bums and a gift certificate to a Thai restaurant—a reference to the early days when, as Castro explained, a local Thai restaurant was only place that would deliver late at night when we worked from Neil’s apartment. A new employee’s chair was also festooned with balloons, and he or she was introduced to every single person in the company.
+During an employee’s first week at Warby Parker, he or she was welcomed at the company weekly meeting and asked to share a little-known fact about him- or herself.
+One new employee told the team about his fear of zombies and his corresponding relief when he learned that zombies have difficulty climbing stairs, which meant that New York’s tall buildings constituted an effective protection mechanism.
+Another new employee confessed that he first wore jeans at age 21.
+Job- specific training filled out the next three weeks for customer experience employees.
+Even employees in other departments participated in limited customer experience training to emphasize the importance in all aspects of company.
+Given Warby Parker’s preference for talented and ambitious employees fresh out of top universities, the company realized it needed to offer customer experience associates appropriate opportunities for professional growth.
+In January 2012, Warby Parker began to develop a two-year rotational program in which customer experience employees would be introduced to projects in other areas of the company after six months in their new role.
+Associates would then join specialized subdivisions of the customer experience team to work on issues that ranged from the development of a customer loyalty program to the improvement of optical lab communications.
+By January 2012, the company’s test run with one customer experience associate was working one day per week on the Social Innovation team) had proven effective in benefiting both teams while providing the employee with an interesting professional opportunity.
+In February 2012, the company began to pay for courses to further employees’ professional development.
+In Castro’s words, We’re providing employees with funds for professional development classes to make sure that customer experience associates can grow into leadership positions within the customer experience team, grow into different divisions, or if they end up leaving Warby Parker in two or three years, that they become recognized as great professionals, given their Warby Parker background.
+That’s a lofty goal, but we’re going to work very hard to make sure that that happens.
+The goal of building a company that would help reestablish the way that for-profits behaved was a key element that, as the director of Social Innovation, Lane Wood, explained, part of our DNA and woven into everything that Warby Parker does.
+With the company’s a Pair, Give a Pair” program as a seed, Warby Parker quickly evolved its company” vision into an articulated stakeholder-centric model, whereby all decisions would take customers, employees, the environment, and the community at large into account.
+In 2011, Warby Parker began the additional step of working to reduce its environmental footprint.
+The company mapped out greenhouse gas emissions produced through frame production, shipping, warehousing, and office work, and then purchased the equivalent amount of carbon offsets in order to become carbon neutral.
+The nonprofit VisionSpring, under the leadership of its founder, Jordan Kassalow, and Blumenthal Exhibit 1 developed a strategy to poverty and generate opportunity in the developing world through the sale of affordable eyeglasses. In this model, free eye exams and affordable glasses were provided by local entrepreneurs to people living on less than per day.
+The nonprofit was based on its founder’s belief that there is a direct relationship between eyeglasses and economic productivity.
+That link was confirmed in a study showing that the use of reading glasses to correct blurry vision increased users’ productivity by and their monthly income by 2 within six months of obtaining reading glasses.
+The model was innovative in two ways.
+First, its distribution method emphasized the need for a market-based solution in order to ensure its sustainability, avoid the culture of dependency often caused by charity efforts, and simultaneously address the issue of poverty and its attendant symptom of limited access to eyeglasses.
+Second, under the model, VisionSpring designed and produced the eyeglasses based on local fashion preferences, therefore respecting the dignity of beneficiaries.
+Warby Parker’s social mission was born out of Blumenthal’s search, between 2003 and 2008, for ways to get glasses on people’s faces.
+By providing the equivalent of the company’s sales in glasses and funds to partners like VisionSpring, Warby Parker accomplished its vision of serving the larger community in sustainable ways.
+Wood explained, As we grow we want to expand our impact by making investments in nonprofits with social enterprise models in order to avoid the unintended negative consequences of charity.
+That is why we partner with innovators that, like VisionSpring and Community Enterprise Solutions, are not just addressing the symptom but trying to address the larger issue of extreme poverty at the same time.
+Warby Parker’s focus on giving a pair through the most effective and sustainable channels was intentionally not the primary marketing message of the company’s efforts to do good.
+Instead, the company” marketing message prioritized Warby Parker’s commitment to disrupting an industry for the benefit of consumers.
+In Wood’s words, The last thing we want is to be mistaken for a nonprofit—and that’s why our message focuses on our product, both from design and accessibility perspectives—what our customers care about most.
+Only by delivering a strong product can we invest in nonprofit partners.
+This is a complex message to convey, and we trust customers to explore the elements of our story that most interest them.
+Although Warby Parker’s initial strategy was to use eyeglasses as a vehicle for economic development, the company quickly realized that glasses could also serve as advocacy tools.
+With this in mind, the company supported causes that ranged from the fight against breast cancer to the restoration of communities affected by armed conflict in central Africa.
+By producing cause-specific glasses—for which a portion of the returns was given to nonprofits—Warby Parker found a way to have broader social impact Exhibit 11 for cause-advocacy glasses)
+Despite its achievements, Warby Parker’s Social Innovation division faced challenges in January 2012.
+First was the challenge of activating customers around the company’s initiatives, with a focus on addressing the lack of access to prescription eyeglasses in developing countries. see an opportunity in the fact that many of our customers are not yet aware of our activity in the social enterprise space, Wood remarked, we also fear that involving them more actively might seem intrusive.
+A second challenge facing the team is that of further rallying employees around its social initiatives.
+While the activities are an ongoing touchstone to current and prospective employees, the company has not yet explored every opportunity to engage the Warby Parker team in its initiatives.
+Third, the company’s explosive growth called for an expansion of its partner base.
+Two reasons underpinned the need to expand: first, to have an impact on a variety of causes; second, to maintain a one-to-one model.
+Although helping current partners scale could help achieve the latter, Warby Parker also sought to find new partners that would satisfy the company’s standards.
+As Wood tackled these challenges, he reaffirmed the fact that innovation is not a side issue for the company, but part of our DNA.
+As such, we are intensely motivated to find solutions.
+In January 2012, the founders could not help but feel proud of Warby Parker.
+They also knew that they would need to tackle the challenges that accompany growth in order to make the most of Warby Parker’s momentum.
+They wondered if the methods they had used to preserve its culture during the first two years would be sufficient as the company’s hiring rate increased, doubling the size of the team by the end of 2012.
+The founders questioned whether they would be able to find experienced and culturally savvy candidates to fill high-level positions.
+With the exception of the CFO and the manager of special operations, all other senior-level staff had grown from early positions in the company’s most basic roles.
+Given this, the founders wondered whether welcoming more experienced talent might also change the company’s fun and open dynamic.
+In its short history, Warby Parker had learned the importance of implementing the best possible forecasting systems in order to maintain appropriate order and inventory levels.
+With only two partner factories located in the same Chinese province, the company realized that it needed to strengthen and build redundancies into its supply chain.
+The founders also asked themselves what the best integrated online and offline marketing strategy for a brand like Warby Parker might be.
+Although the company had implemented effective channels of communication with its existing customers, Warby Parker also sought to reach customers beyond its existing social circles.
+Although word-of-mouth and media attention had gotten the company far during its first two years, the founders were convinced it was time to invest in marketing efforts to expand the reach of the brand.
+Which marketing strategies could replicate the successful effect of the approach of the first two years?
+Finally, the founders examined Warby Parker’s impact on the eyewear industry.
+The company had revolutionized the industry by combining design, quality, and accessibility, but past achievements would not ensure future success.
+Warby Parker would maintain what it confidently recognized as levels of execution—especially in the face of poorer-performing copycats, but what about continuing to innovate?
+In seeking the next game changer, Warby Parker sought to develop its own technologies for improving the virtual try-on experience and easing the online purchase of glasses with progressive lenses.
+In January 2012, the founders hired a company to develop new virtual try-on software but—as with any research and development efforts—the future was uncertain.
+As they faced these challenges, Blumenthal and Gilboa hoped that Warby Parker would continue to bring as much fun and inspiration to stakeholders as it had in its first two years of existence.  Komen for the Cure) 1 Story, Warby Parker, accessed January 2012.
+  com/Davis-Vision-History/ accessed February 2012.
+Glasses Contacts Wholesaling in the US, IBISWorld, May 2011, p. 4, IBISWorld.com, accessed February 2012. launched a program in which it donates one pair of eyeglasses for every pair of private-label eyeglasses purchased; see eyewear company to the View’ for millions around the world, PRNewswire, March 30, 2011,
+ accessed January 2012.  washington.html, accessed January 2012.
+June 1, 2010, accessed January 2012. 2011, accessed January 2012. prescription-glasses-online/ accessed January 2012.  accessed January, 2012. accessed January 2012.  photos.php, accessed January 2012. eye-opener, Chicago Tribune, July 22, 2007, spending-jul2story, accessed January 2012.
+Glasses.com, and Coastal Contacts market share) acquired Justeyewear.com.
+See Janet Shim, Industry Report OD5
+Online Eyeglasses Contact Lens Sales in the US, IBISWorld, December 2011, pp. 26, IBISWorld.com, accessed February 2012.
+ became a certified B Corporation in May 2011.
+See Warby Parker, Certified B Corporation, accessed January 2012.  accessed January 2012.
+ accessed January 2012.
+VisionSpring and William Davidson Institute, December 20, 2010, downloads/news/scojo_news_pdf, accessed January 2012. organization” with main operations in Guatemala, Ecuador, and Nicaragua, as of January 2012.
+See Story, Community Enterprise Solutions, accessed March 2012. 
+In January 2012, almost two years after their graduation from the Wharton School, Neil  Blumenthal and David Gilboa found themselves running Warby Parker from a SoHo office staffed  with 50 employees.
+In two years, the eyewear company had gone from selling 20,000 eyeglasses to  over 100,000 per year.
+What began with a common complaint—the high cost of designer eyewear— had become a successful company with a social mission to increase access to prescription eyewear  around the world.
+Both Blumenthal and Gilboa were aware that the company’s long-term strength  would rely on decisions made during its first two years.
+The two friends remembered how in 2010, while they struggled to find time for classes, a small  team worked from Blumenthal’s apartment in Philadelphia.
+They were proud to see that despite the  company’s growth, the ethos of that initial team remained.
+They could not help but wonder,  however, if the company culture would change by the end of 2012, when the team size was expected  to reach 100 employees.
+The founders also pondered other challenges that had come with growth,  like the need to move from a word-of-mouth strategy to a more intentional marketing effort and to  increase the company’s manufacturing partner base.
+At the outset of 2012, the founders knew that the  company’s long-term strength would rely on their decisions following the momentum created by  Warby Parker’s first two years.
+In September 2008, Neil Blumenthal, David Gilboa, Andrew Hunt, and Jeffrey Raider met at the  Roosevelt Pub near the Wharton School, where all four were students (see Exhibit 1 for founders’  backgrounds).
+Gilboa had lost his eyeglasses and, in seeking out a new pair, had been appalled at the  high retail cost of designer eyewear—around $400.
+Raider shared a similar experience; he too had  balked at the price of stylish glasses and, despite a five-year outdated prescription, could not bring  himself to purchase a new pair.
+As the former director of a nonprofit that delivered eyeglasses in  developing countries, Blumenthal had witnessed firsthand the gap between the eyewear industry’s  manufacturing costs and retail prices.
+As the four discussed the search for lower-cost options, Hunt  posed an apt question: why had glasses not joined other consumer product categories in leveraging e- commerce as a solution?
+They quickly realized that they had stumbled upon a viable way to solve  this “tangible consumer pain point” by providing eyewear at a fraction of the cost through online  distribution.
+Each returned to class the next day eager to reconnect after a sleepless night mulling  over the idea.
+Between classes at Wharton, they went on to spend the next 17 months preparing to  launch Warby Parker.
+Preparation started with industry research.
+Eyewear was a multibillion-dollar market largely  dominated by two vertically integrated companies: Luxottica Group SpA (LUX) and Essilor  International SA (EI).
+Online penetration was low relative to other retail categories and growing (see  wholesalers, and brick-and-mortar stores—had further strengthened the role of the two sector  leaders.
+Luxottica held eyewear licenses to most of the major fashion brands—including Ralph  Lauren, Chanel, and Prada—and owned optical brands like Oakley, Ray-Ban, Oliver Peoples, and  Persol.
+It had also acquired large optical retail chains like LensCrafters, Sunglass Hut, and Pearle  Vision,2 and owned the second-largest vision insurance plan in the U.S., EyeMed.3 In 2011, the  company was the largest player in the U.S. optical brick-and-mortar retail industry, holding a 29.9%  market share, and the second-largest player in the optical wholesaling industry, with a 7.2% market  share.4
+With Luxottica dominating the frame portion of the optical industry, Essilor was the largest  optical lens wholesaler in the U.S., holding 11% of the wholesale optical industry.
+Essilor produced  lenses and coatings, selling lenses directly to optical retailers along with lab services (cutting and  inserting lenses into frames) through the more than 70 U.S. labs it had acquired as of 2011.5
+The two companies were also trying to navigate the online space: Luxottica entered into a  multiyear partnership with the second-most important online optical retailer—Vision Direct—in  2009, and in 2010, soon after Warby Parker’s launch, Essilor acquired a majority stake in the company  that operated the FramesDirect.com
+website, the fourth-most important player in the U.S. optical  online retail industry.6
+The founders of Warby Parker identified the opportunity created by the lack of branded, high- quality, and low-priced eyewear.
+They set out to offer $95 eyeglasses with anti-reflective  polycarbonate prescription lenses by avoiding traditional industry costs.
+In Blumenthal’s words,  Companies like Luxottica were marking up frames—just the frames, not the lenses— between 10X and 25X from point of manufacture to point of sale.
+When you go to an optical  shop and select a frame, the frame probably came from Luxottica.
+The optical shop then mails  that frame to an optical lab, likely owned by Essilor, where Essilor lenses are cut and inserted.
+Then the completed glasses are shipped back to the optical shop and sold to you at a 3X to 5X  retail margin.
+We thought we could lower prices by bypassing the frame companies and  optical shops by selling directly to consumers online . . . and that this was an inherent good  because we could potentially transfer billions of dollars from these big companies to normal  consumers . . .
+and, in the process, serve as an example of a socially responsible business.
+In order to facilitate online shopping to a customer base unfamiliar with buying glasses online,  they combined customer-friendly policies, like free shipping and a 30-day “no questions asked” free  return policy, with creative ways for customers to “try on” glasses.
+They licensed the best virtual try- have the option to select up to five frames that would be shipped to them for free, allowing them to  try on pairs in the comfort of their own home.
+They would be able to keep the glasses for one week  before sending them back to Warby Parker (at no cost), with the subsequent opportunity to make a  purchase.
+The company was also the first in the optical industry to integrate the one-for-one donation  model across all product lines.7
+Convinced of the need to disrupt the optical sector, the founders  knew Warby Parker had the potential of both benefiting eyewear consumers and becoming a large,  impactful business.
+Blumenthal noted, “[T]his is a big industry; it is [worth] about $16 billion in  prescription eyewear alone.”8
+In January 2009, the founders took an entrepreneurship class during their second semester at  Wharton.
+It was here that they evolved their initial idea into what would become Warby Parker: a  technology-enabled eyewear fashion brand that does good in the world.
+Having been warned about  the dangers of launching a business with friends, the founders set standards to ensure that they  would work hard while maintaining their friendships.
+Warby Parker, they promised themselves,  would never become a “four-headed hydra.”
+Although the four founders were involved in all areas of the business, responsibilities were  initially divided into two core areas.
+Gilboa and Raider focused on operations, including customer  service, order fulfillment, and legal and finance.
+Blumenthal and Hunt worked on marketing,  branding, eyewear design, website user experience, and the social mission.
+They invested equal  amounts and correspondingly divided equity.
+Realizing the various professional and personal  opportunities that would be available to them during business school, they set up a monthly vesting  schedule running until graduation in May 2010.
+Major decisions would always seek consensus first,  or, as a second best, a three-out-of-four majority.
+Should an issue divide the founding team in half,  they would ask one of their earliest advisers, Wharton Marketing Professor David Bell, to cast the  deciding vote.
+The founders would also conduct monthly 360-degree review sessions together to  provide constructive feedback and ensure that any issues that could affect their working dynamic  surfaced quickly.
+Early on, the founders recognized the importance of building a brand as a competitive advantage.
+They decided the brand would stand for classic, American heritage design, exceptional value,  amazing customer service, and social good.
+During the process of naming “Warby Parker,” the founders created a list of more than 2,000  potential company names over six months.
+It was while browsing a Jack Kerouac exhibit at the New  York Public Library that Gilboa took note of two memorable names in the author’s unpublished  journals: Warby Pepper and Zagg Parker.
+The founders agreed that Kerouac, a Beat Generation  author, represented the literary spirit and disruptive ethos that they envisioned for their brand, and  concocted the “Warby Parker” moniker by combining the two character names.
+Although Warby Parker’s aesthetic identity and social mission had been clear components of the  brand since the beginning, the founders recognized the need to prioritize the four brand pillars, or  stories, that it wanted to share with customers.
+They decided upon the following brand hierarchy:  customer-friendly policies.
+4. Social mission: for every pair of glasses sold, Warby Parker would distribute a pair to  someone in need.
+The founders’ ordering of the above messages was the result of discussions about the purchase  calculus of potential customers, namely, that customers bought glasses first and foremost for “how  they looked on their faces.”
+By the middle of their second semester at Wharton, the founders had identified three prerequisites  for the Warby Parker launch: a collection, a website, and the attention of the fashion world.
+With the  goal of launching by September 2009, they began to design an initial collection and located a frame  manufacturer in China that matched the company’s values.
+In the summer of 2009, Raider—who had  promised to return to his pre-MBA employer upon graduation—worked on the business full time  while the others juggled their Warby Parker responsibilities with internships.
+The founders  compensated him with the proceeds from the Wharton Venture Award and a promise to more than  double that amount if the company succeeded.
+With the first collection completed by the end of 2009,  an official launch was delayed by issues in the development of the website.
+In the meantime, the  company sold glasses to classmates through paper orders and hosted a trunk show in Hunt’s  apartment.
+The company quickly evolved to hire a full-time designer and two contractors with extensive  experience in optical and fashion design.
+They also collaborated with factory industrial designers and  experimented with concept samples on a variety of individuals to round out the design process.
+By the end of January 2012, the company had released two optical collections and one sun  collection.
+The names of the frames were often inspired by literary and military heroes.9
+The 2010  collection of 27 eyeglass styles and one monocle combined best-selling, fashion-forward frames like  the “Roosevelt” and “Huxley” (see Exhibit 4) with a few editorial pieces like the “Roosevelt in Bondi  Blue” and the “Wiloughby in Checkered Revolver” (see Exhibit 5).
+All styles were guided by the  Warby Parker design dictum of “never producing anything we would be embarrassed to see in a  photo of ourselves 20 years later.”
+Inspired by the success of bolder frames, the 2011 collection  incorporated 14 new styles that aimed to combine wearability with bolder shapes and colors.
+Frames  like the “Winston” and “Begley”—as well as innovative colors like “Greystone” and “Midnight  Blue”—attempted to lift customers out of their comfort zone while retaining the wearable essence of  the first collection (see Exhibit 6 for some 2011 collection frames and Exhibit 4 for best-sellers of the  2010 and 2011 collections).
+In June 2011, the company launched its first sun collection, with nine  sunglass designs.
+The third optical collection, released in February 2012, combined bolder designs  with more basic ones in order to create options for “the guy that wants to wear Warby Parker glasses  and a suit to work,” as Blumenthal put it.
+With this audience in mind, Warby Parker sought to  expand into metal frames.
+Once a technical drawing was finalized, factories carved frames out of sheets of acetate.
+Unlike  plastic, cellulose acetate could not simply be melted and fed into a metallic mold.
+The use of acetate,  however, was necessary from the founders’ perspective.
+“Along with titanium and a few alloys,”  Blumenthal explained, “acetate is simply the best-quality material for producing eyeglasses frames.”
+Warby Parker acetate primarily came from a family-owned Italian producer that operated in Italy  and Asia.
+The company’s direct relationship with its raw material supplier was rare in the industry;  most eyewear wholesalers and retailers relied on their manufacturers’ relations with the first link of  the supply chain.
+Frames were then cut and assembled in two Chinese factories.
+In January 2012, Warby Parker  sought to expand its supplier base, prioritizing factories that had more automated processes and that  shared Warby Parker’s values.
+As Blumenthal explained, the founders selected factories based on  those values.
+He elaborated:  For example, their management actually has equity in the company, which is very rare in  China.
+They have basketball leagues for their employees.
+One factory has free yoga lessons and  the other has weekly trips to the beach for employees.
+And, we’ve personally visited and  continue to visit our factories to ensure that those values remain aligned.10
+The final step in the production process took place in two optical labs in New York where  premade (“stock”) lenses were edged and inserted into the frames.
+The decision to utilize stock lenses  rather than surfacing the prescription into lenses significantly reduced costs.
+Although Warby Parker  offered some of the best lenses in the market—made from polycarbonate and with features like  impact resistance and non-glare coating—the company chose not to provide certain types of lenses,  like progressives.
+Progressive and bifocal lenses were more complicated to fit and tended to have  higher return rates industrywide, so the decision was made to wait to introduce them at a later date.
+In January 2012, Warby Parker began to assess the opportunity of expanding its offerings into  progressive lenses, which, according to company research, made up 40% to 50% of the eyewear  market.
+Given their belief in Warby Parker, the four founders initially funded the business with their  personal savings.
+Following the launch, however, a growing need for inventory and unfavorable  supplier payment terms highlighted the need for more capital.
+In February 2010, the founders were  forced to temporarily suspend the home try-on program—a fact that they believed would undervalue  the company’s worth—and therefore decided that it was too early to begin the process of raising  external capital.
+With proven market traction, as evidenced by a wait list of over 20,000 customers,  the founders felt confident about securing bank loans.
+Unexpectedly, however, it took until June 2010  to obtain a $50,000 loan from a bank—a loan that they had to collateralize with the same amount of  cash.
+A second loan was secured only after having been turned down by a total of 15 banks, when a  personal relationship led them to a community bank that sponsored the company for a U.S. Small  Business Administration (SBA)–backed loan.
+In October 2010, after a four-month wait, the $200,000  loan was realized.11
+A month later, the company issued a capped convertible note of $550,000 to  friends and family.
+Those funds were used to expand inventory, resume the home try-on program,  and grow the team beyond the first 2 employees to just over 10.
+Between November 2010 and March 2011, sales tripled, and inventory levels were, once again, too  low.
+At this point, Warby Parker decided to accept offers from external investors.
+The first  investment round, completed in May, totaled $2.5 million and featured offers from about 30  investors, including prominent venture capital firms.
+The founders selected investors that belonged  to various communities of interest to Warby Parker—investors whose values were aligned with those  of the company.
+Elaborating on the decision to reject some offers, Gilboa remarked that “we felt  really great about the vision that we had as a founding team and wanted to keep as much control as  possible.
+Besides, we wouldn’t have known what to do with the $5 million checks that large VCs  offered us and they would have always wanted us to continue pushing capital into the business.”
+Toward the end of 2011, with heightened concerns about volatility in financial markets, the  founders decided to accept proposals from various investors.
+The company raised $12.5 million from  investors, including Tiger Global Management (see Exhibit 7 for list of investors).
+The founders were  drawn to the investor’s e-commerce portfolio, its large capital pool, and, most importantly, its  “attitude.”
+In Blumenthal’s words, “Tiger Global invests to add value and support passionate  founding teams without being overly intrusive.”
+Lee Fixel, the managing director of Tiger Global,  became Warby Parker’s fifth board member.
+In keeping with the company’s priority to present itself as a fashion brand, the founders  recognized the importance of debuting with the two highest-profile fashion vehicles: GQ (men) and  March issue of GQ.
+At this point, they focused their attention on getting a consumer-ready website  up and running by the end of February.
+Several days before February 15, 2010, however, they were  told that GQ would reach subscribers on that very day.
+Blumenthal explained,  We literally had to launch the website at 3 a.m.
+on February 15.
+We didn’t tell our friends  because we didn’t know how the website would hold up.
+On that day GQ called Warby Parker  “the Netflix of eyewear” and Vogue released an article about us.
+Two days later we were in  Daily Candy, before we even had a chance to reach out to them. . . .
+[W]ith that somewhat  deliberate perfect storm, the orders started to pour in.
+In the middle of class at 10 a.m.
+on February 15, Gilboa’s phone warned him: the first online order  had just been placed.
+In Gilboa’s words, “I had this amazing feeling of jubilation and thought, ‘This  company is real.’
+By the end of class, orders had been coming in every few minutes and I started to  worry because we just didn’t have enough glasses.”
+Gilboa convened an emergency meeting: with  only 9,000 pairs of glasses and no sold-out functionality in the website, Warby Parker would soon be  accepting more orders than it could fulfill.
+Exacerbating inventory constraints were distribution  issues for the home try-on program.
+The optical labs, which initially handled all order fulfillments,  were unable to handle such a high order volume.
+At the emergency meeting, Raider reasoned, “Let’s keep taking orders, we’ll apologize later.
+We  can’t turn away our first customers!”
+As they discussed the merits of continuing to accept orders,  Gilboa’s phone continued to buzz, alerting him that 10 more orders had been placed during the first  two minutes of the conversation.
+An immediate consensus was built to stop taking orders, and a call  was placed to the company’s website developer to create sold-out functionality and a waiting list.
+The founders also suspended the home try-on program, which would not be reactivated until  November 2010.
+Three weeks after its launch, Warby Parker had hit its first-year sales target.
+A week  later, the waiting list amounted to more than 20,000 customers.
+As Raider predicted, the founders spent the following weeks apologizing to customers through  personalized e-mails and phone conversations.
+Gilboa explained, “How do you communicate to  customers that we are out of inventory and may not have glasses for several months?”
+Practicing one  of the company’s core values, the founders opened an honest and direct line of communication with  customers, who, for the most part, were sympathetic.
+One customer who had been waiting for his  glasses for three weeks turned out to be the CEO of a logistics company called Navarre (NAVR).
+In  June 2010, the two companies entered a partnership in which Navarre received all product shipments  from China, performed quality controls, and handled the inventory.12
+Navarre also managed all  distribution logistics for the home try-on program, customer orders of frames with demo lenses, and  optical lab frame requirements.
+Labs in turn maintained appropriate inventory levels to fulfill orders  of prescription eyeglasses.
+In February 2011, comparable inventory issues occurred when the New York Times featured Warby  Parker in an article.13
+The company then hired Molly Rhodes, manager of special operations, to focus  on supplier relations and inventory forecasting in order to solve what Blumenthal described as “a  failure of imagination on how quickly [Warby Parker] can grow.”14
+The company then began to  define inventory levels based on forecasts of the company’s overall sales target and the historical  performance of each stock-keeping unit, preparing to meet needs if actual sales were to exceed the  forecast by 50%.
+The company’s first employee, Mara Castro, joined the company in December 2009 to help the  founders process customer orders.
+Interested in the company’s “business approach to doing good in  the world,” Castro went from working 15 hours during her first week to 100 hours by the third.
+After  the launch in February 2010, a second customer experience associate joined her.
+The company  continued to grow through 2010, adding customer experience associates, an eyewear designer, an in- house website developer, and a director of online experience.
+Until January 2011, the team size  hovered at close to 10 employees.
+The company’s second employee, Colleen Tucker, explained,  At first there were about seven of us in Neil’s apartment talking to customers on our  cellphones and constantly coming up with better ways of doing things.
+We talked to customers  as you would a friend and were given a lot of autonomy by the founders as we tried to provide  the best customer experience possible.
+We sat in tight quarters, in an open office, and were all  friends who worked hard together. . . .
+[T]eamwork and fun were huge elements of that first  office.
+The founders graduated from the Wharton School in May 2010, three months after Warby Parker  launched.
+Although they all wanted to remain on the board of directors, their intention had always  been for only one or two to run the company.
+While Raider had promised to return to his pre-MBA  employer, the other founders were faced with a choice.
+Given his passion for Warby Parker,  Blumenthal decided early on that he would take on a full-time role in the company.
+Despite Hunt’s  interest in Warby Parker, he eventually decided to follow his passion for venture capital.
+For Gilboa,  the launch experience was a key deciding factor.
+He explained, “As things started to feel more  tangible, the opportunity of creating an organization became more exciting than developing an  existing one.
+It worked out well because, if there were going to be two of us to stay on, it made sense  to have one from each of the two core responsibility areas.”
+In September 2010, the company moved to its first office in New York City, a decision that both  reflected and furthered Warby Parker’s identity as a fashion brand.
+By January of the following year,  only 11 months after its launch, Warby Parker had sold about 20,000 pairs of glasses and donated the  same amount.15
+The pace of hiring increased.
+During the inventory crisis—while the home try-on program was suspended—customers began  calling the Warby Parker office, then located in Blumenthal’s apartment, to ask if they could see the  frames.
+That experience inspired Warby Parker’s initial trunk shows and led to the notion of having a  physical retail presence above and beyond the website.
+Explaining Warby Parker’s decision to utilize  showrooms, Gilboa and Blumenthal wrote, “Many companies think about being online or bricks-and- mortar, like it’s black or white. . . .
+[T]hey forget what they’re trying to do is serve customers.
+So even  though we originally thought of ourselves as a technology-enabled fashion brand, we’ve gradually  been finding ways to let our customers physically interact with our products.”16
+In addition to devoting a segment of its New York City headquarters to a showroom, the  company partnered with select boutiques across the country to offer the entire Warby Parker  collection.
+Warby Parker paid rent for the space while giving showroom hosts a commission for  glasses sold.
+Customers still needed to buy the glasses online, either by using the boutique’s in-store  iPad or by ordering from their home computer, indicating the boutique’s promotional code in order  to obtain a $5 discount.
+In early 2012, only two of the nine Warby Parker showrooms featured Warby  Parker retail associates (see Exhibit 8 for a list of showrooms).
+The other seven were serviced by  boutique staff members trained by Warby Parker in selling eyewear and navigating the online  purchase.
+In early 2012, Warby Parker was beginning to seriously consider its showroom strategy for the  future: would it continue to partner with select boutiques across the country, open more showrooms  similar to its New York City headquarters, or design a flagship retail store?
+According to the June 2011 customer survey, the majority of website visitors had heard about the  brand through a friend, colleague, or family member.
+The next two most popular sources were print  media articles and online blogs and articles.
+In January 2012, the company sought to develop its first  integrated online and offline marketing strategy.
+In 2011, the company’s marketing strategy focused on a few creative events to simultaneously  raise brand awareness and offer customers the opportunity to view the frames in person.
+For Fashion  Week in September 2011, Warby Parker models and friends wearing various brand styles “took over  the New York Public Library” by simultaneously raising robin’s-egg-blue books titled with the name  of the style they were wearing.17 Between the end of 2011 and the first week of 2012, the company set  up the Warby Parker Holiday Spectacle Bazaar—a temporary installation that offered eye exams and  displayed all of its frames.
+Also in December 2011, the company customized blue bicycles with front  display vitrines that showcased 15 frames available for immediate purchase while driving around the  Miami Art Basel grounds (see Exhibit 9 for photos of these events).
+Warby Parker’s success in the segment also invited the inevitable copycats—some of whom even  went so far as to copy duplicate elements of the company website.
+The most public example of these  events involved Eyefly’s use of a Warby Parker photo on its website (see Exhibit 10).18 Warby  Parker’s response to this type of competition was, in Blumenthal’s words, to “continue to look  forward and innovate: copycats can stay behind.”19
+Aside from copycats, additional competition  came from established online discount retailers selling either mid- and premium-priced branded  eyewear, like FramesDirect.com, or generic, low-priced, eyeglasses, like Zenni Optical.20
+The online  eyewear retail category continued to grow as online optical leaders like 1-800-Contacts.com and  Coastal Contacts (COA) added eyewear to their product mix in 2011.21    In January 2012, Warby Parker had 50 employees.
+The company planned to hire about 50 more  throughout the year in order to keep up with growth projections based on annual sales increasing  from 20,000 glasses to 100,000 in one year.
+Although customer experience associates made up the  majority of new hires in the first two years, other areas of the company began to expand significantly  in 2012.
+The technology team, for example, went from two to six employees during the first week of  2012, and the financial team was duly expected to grow from three to five employees during the first  months of that year.
+Customer experience hiring levels would also need to balance current needs  with an expected increase in automated processes.
+In addition to increasing the company’s overall hiring volume, Warby Parker sought experienced  candidates to lead the areas of finance, technology, marketing, and supply chain management.
+Steve  Miller, the company’s CFO and first such senior-level employee, joined the team in September 2011  after years of CFO and business development experience in the financial technology field.
+Miller  commented, “[T]hose positions are currently filled by tremendously talented young people, but the  company is now looking to hire a couple of folks who can say ‘been there, done that.’”
+Despite significant growth in two years—and a move from Blumenthal’s Philadelphia apartment  to a loft-style office in SoHo—Warby Parker was able to successfully retain the elements of  friendship, fun, teamwork, and transparency that shaped the company culture.
+The founders were  careful to institute mechanisms with this purpose in mind.
+The initial team, for example, compiled a  list of core values like “take our work and our impact seriously, but not ourselves” (see Exhibit 3 for  the company’s core values).
+Each department shared large tables, and only one room in the office was  reserved for closed-door meetings.
+The co-CEOs communicated goals internally through formal  meetings and company social events.
+Employees described the company as having a “social  atmosphere” where “people are not just coworkers, but friends.”
+To further spur physical  interactions—and to provide a visual analogue of the company’s commitment to transparency—the  SoHo showroom was constructed adjacent to the customer experience workspace, allowing  customers to witness the daily operations of the company.
+Equally important to maintain, the founders agreed, were the twin rules of always “presume trust  and positive intent” and “embrace honest, but difficult conversations” (see Exhibit 3).
+This ethos was  maintained via ongoing, immediate feedback; monthly informal feedback sessions; and quarterly  360-degree reviews, which followed the best practices established by the founders when there were  only four of them.
+Castro explained, “We ask customer experience associates to give each other  feedback if they overhear someone answer a question incorrectly.” Noting the importance of culture  in the company, Castro observed that “when you’re growing too fast, you might lose sight of who  you are.”
+As the first employee, Castro emphasized the need to “make sure that the politics you see  in most large companies stay out of the picture despite our growing size,” and that team members  “continue to grow and have fun together.”
+The customer experience associate position served as the starting point for most roles in the  company, helping to reinforce a customer-centric culture and ensure a steady flow of talent.
+After  establishing a candidate’s competency, the focus of interviews advanced to the question of whether  an applicant would be a harmonious fit with the company culture.
+By January 2012, two years of  operations experience had clarified the traits of successful hires.
+Adaptability, a strong work ethic,  and intelligence all contributed to a successful hire; a devotion to delivering exceptional customer  service and value, and a social mission were also essential.
+In addition, candidates needed to display  “a mastery of the English language,”22 which, as Blumenthal pointed out, was “a rarity given the  tendency of many companies to off-shore their customer service to reduce costs.”
+Castro and Tucker  were in charge of hiring, and both collaborated with the heads of other divisions in order to hire  people who could eventually grow into different parts of the company.
+As the customer experience team grew, company leadership realized that the “learn as you go”  training approach employed during Warby Parker’s first year needed to change.
+The company  started to develop product- and process-specific training methods: flash cards featuring different  frames and colors, for example, as well as more formal sessions about reading and interpreting  eyeglass prescriptions, general eye health issues, and the steps in processing orders.
+Warby Parker  also sought to make the onboarding process about, as Tucker put it, “getting a new hire to feel like a  part of something amazing.”
+The company developed an online interactive microsite to welcome  hires a week prior to their start date.
+The site included a letter from the founders, the list of core  values, details on company social events—like weekly lunches with four randomly selected  employees—and a list of benefits and perks, such as weekly catered lunches, health insurance, and  reimbursements for cell phones and monthly gym plans.
+In the new onboarding process, a hire’s first day of work featured a festive welcome package,  including items like Jack Kerouac’s The Dharma Bums and a gift certificate to a Thai restaurant—a  reference to the early days when, as Castro explained, a local Thai restaurant was “the only place that  would deliver late at night when we worked from Neil’s apartment.” A new employee’s chair was  also festooned with balloons, and he or she was introduced to every single person in the company.
+During an employee’s first week at Warby Parker, he or she was welcomed at the company weekly  meeting and asked to share a little-known fact about him- or herself.
+One new employee told the  team about his fear of zombies and his corresponding relief when he learned that zombies have  difficulty climbing stairs, which meant that New York’s tall buildings constituted an effective  protection mechanism.
+Another new employee confessed that he first wore jeans at age 21.
+Job- specific training filled out the next three weeks for customer experience employees.
+Even employees  in other departments participated in limited customer experience training to emphasize the  importance in all aspects of company.
+Given Warby Parker’s preference for talented and ambitious employees fresh out of top  universities, the company realized it needed to offer customer experience associates appropriate  opportunities for professional growth.
+In January 2012, Warby Parker began to develop a two-year  rotational program in which customer experience employees would be introduced to projects in other  areas of the company after six months in their new role.
+Associates would then join specialized  subdivisions of the customer experience team to work on issues that ranged from the development of  a customer loyalty program to the improvement of optical lab communications.
+By January 2012, the  company’s test run with one customer experience associate (who was working one day per week on  the Social Innovation team) had proven effective in benefiting both teams while providing the  employee with an interesting professional opportunity.
+In February 2012, the company began to pay for courses to further employees’ professional  development.
+In Castro’s words,   We’re providing employees with funds for professional development classes to make sure  that customer experience associates can grow into leadership positions within the customer  experience team, grow into different divisions, or if they end up leaving Warby Parker in two  or three years, that they become recognized as great professionals, given their Warby Parker  background.
+That’s a lofty goal, but we’re going to work very hard to make sure that that  happens.
+The goal of building a company that would help reestablish the way that for-profits behaved was  a key element that, as the director of Social Innovation, Lane Wood, explained, “is part of our DNA  and woven into everything that Warby Parker does.”
+With the company’s “Buy a Pair, Give a Pair”  program as a seed, Warby Parker quickly evolved its “good company” vision into an articulated  stakeholder-centric model, whereby all decisions would take customers, employees, the environment,  and the community at large into account.23
+In 2011, Warby Parker began the additional step of  working to reduce its environmental footprint.
+The company mapped out greenhouse gas emissions  produced through frame production, shipping, warehousing, and office work, and then purchased  the equivalent amount of carbon offsets in order to become carbon neutral.24
+The nonprofit VisionSpring, under the leadership of its founder, Jordan Kassalow,25 and  Blumenthal (see Exhibit 1), developed a strategy to “reduce poverty and generate opportunity in the  developing world through the sale of affordable eyeglasses.”26 In this model, free eye exams and  affordable glasses were provided by local entrepreneurs to people living on less than $4 per day.
+The  nonprofit was based on its founder’s belief that there is a direct relationship between eyeglasses and  economic productivity.27
+That link was confirmed in a study showing that the use of reading glasses  to correct blurry vision increased users’ productivity by 35% and their monthly income by 20%,  within six months of obtaining reading glasses.28
+The model was innovative in two ways.
+First, its  distribution method emphasized the need for a market-based solution in order to ensure its  sustainability, avoid the culture of dependency often caused by charity efforts, and simultaneously  address the issue of poverty and its attendant symptom of limited access to eyeglasses.
+Second, under  the model, VisionSpring designed and produced the eyeglasses based on local fashion preferences,  therefore respecting the dignity of beneficiaries.
+Warby Parker’s social mission was born out of Blumenthal’s search, between 2003 and 2008, for  “sustainable ways to get glasses on people’s faces.”
+By providing the equivalent of the company’s  sales in glasses and funds to partners like VisionSpring, Warby Parker accomplished its vision of  serving the larger community in sustainable ways.
+Wood explained,   As we grow we want to expand our impact by making investments in nonprofits with  social enterprise models in order to avoid the unintended negative consequences of charity.
+That is why we partner with innovators that, like VisionSpring and Community Enterprise  Solutions,29 are not just addressing the symptom but trying to address the larger issue of  extreme poverty at the same time.
+Warby Parker’s focus on giving a pair through the most effective and sustainable channels was  intentionally not the primary marketing message of the company’s efforts to do good.
+Instead, the  “good company” marketing message prioritized Warby Parker’s commitment to disrupting an  industry for the benefit of consumers.
+In Wood’s words,   The last thing we want is to be mistaken for a nonprofit—and that’s why our message  focuses on our product, both from design and accessibility perspectives—what our customers  care about most.
+Only by delivering a strong product can we invest in nonprofit partners.
+This  is a complex message to convey, and we trust customers to explore the elements of our story  that most interest them.
+Although Warby Parker’s initial strategy was to use eyeglasses as a vehicle for economic  development, the company quickly realized that glasses could also serve as advocacy tools.
+With this  in mind, the company supported causes that ranged from the fight against breast cancer to the  restoration of communities affected by armed conflict in central Africa.30
+By producing cause-specific  glasses—for which a portion of the returns was given to nonprofits—Warby Parker found a way to  have broader social impact (see Exhibit 11 for cause-advocacy glasses).
+Despite its achievements, Warby Parker’s Social Innovation division faced challenges in January  2012.
+First was the challenge of activating customers around the company’s initiatives, with a focus  on addressing the lack of access to prescription eyeglasses in developing countries.
+“We see an  opportunity in the fact that many of our customers are not yet aware of our activity in the social  enterprise space,” Wood remarked, “but we also fear that involving them more actively might seem  intrusive.”
+A second challenge facing the team is that of further rallying employees around its social  initiatives.
+While the activities are an ongoing touchstone to current and prospective employees, the  company has not yet explored every opportunity to engage the Warby Parker team in its initiatives.
+Third, the company’s explosive growth called for an expansion of its partner base.
+Two reasons  underpinned the need to expand: first, to have an impact on a variety of causes; second, to maintain a  one-to-one model.
+Although helping current partners scale could help achieve the latter, Warby  Parker also sought to find new partners that would satisfy the company’s standards.
+As Wood  tackled these challenges, he reaffirmed the fact that “social innovation is not a side issue for the  company, but part of our DNA.
+As such, we are intensely motivated to find solutions.”
+In January 2012, the founders could not help but feel proud of Warby Parker.
+They also knew that  they would need to tackle the challenges that accompany growth in order to make the most of Warby  Parker’s momentum.
+They wondered if the methods they had used to preserve its culture during the  first two years would be sufficient as the company’s hiring rate increased, doubling the size of the  team by the end of 2012.
+The founders questioned whether they would be able to find experienced  and culturally savvy candidates to fill high-level positions.
+With the exception of the CFO and the  manager of special operations, all other senior-level staff had grown from early positions in the  company’s most basic roles.
+Given this, the founders wondered whether welcoming more  experienced talent might also change the company’s fun and open dynamic.
+In its short history, Warby Parker had learned the importance of implementing the best possible  forecasting systems in order to maintain appropriate order and inventory levels.
+With only two  partner factories located in the same Chinese province, the company realized that it needed to  strengthen and build redundancies into its supply chain.
+The founders also asked themselves what the best integrated online and offline marketing  strategy for a brand like Warby Parker might be.
+Although the company had implemented effective  channels of communication with its existing customers, Warby Parker also sought to reach customers  beyond its existing social circles.
+Although word-of-mouth and media attention had gotten the  company far during its first two years, the founders were convinced it was time to invest in  marketing efforts to expand the reach of the brand.
+Which marketing strategies could replicate the  successful effect of the approach of the first two years?
+Finally, the founders examined Warby Parker’s impact on the eyewear industry.
+The company  had revolutionized the industry by combining design, quality, and accessibility, but past  achievements would not ensure future success.
+Warby Parker would maintain what it confidently  recognized as “high levels of execution—especially in the face of poorer-performing copycats,” but  what about continuing to innovate?
+In seeking the next game changer, Warby Parker sought to  develop its own technologies for improving the virtual try-on experience and easing the online  purchase of glasses with progressive lenses.
+In January 2012, the founders hired a company to  develop new virtual try-on software but—as with any research and development efforts—the future  was uncertain.
+As they faced these challenges, Blumenthal and Gilboa hoped that Warby Parker  would continue to bring as much fun and inspiration to stakeholders as it had in its first two years of  existence.
+Founders’ Backgrounds  United States Optical Sector by Industry  Revenue and Growth  Company Core Values  Best-Selling Frames (2010 and 2011 collections)  HUXLEY (in Whiskey Tortoise)           ROOSEVELT (in Striped Chestnut)            FILLMORE (in Sandalwood Matte)                            ZAGG (in Tennessee Whiskey)                                            Sample Editorial Frames (2010 collection)  ROOSEVELT (in Bondi Blue)                                    WILOUGHBY (in Checkered Revolver)                      Sample Frame and Color Additions (2011 collection)          BEGLEY (in Greystone)                                       BEGLEY (in Midnight Blue)    WINSTON (in Old-Fashioned Fade)                     TENLEY (in Burgundy Fade)  Warby Parker Notable Investors           Warby Parker Showrooms    Warby Parker Event Photos    Warby Parker Photo on Eyefly Website    Cause-Advocacy Glasses  Invisible Children sunglasses by Warby Parker    Pink glasses by Warby Parker (in support of Susan G.
+Komen for the Cure)               1 “Our Story,” Warby Parker, http://www.warbyparker.com/our-story, accessed January 2012.
+Care in 1995, and the second-largest player in the U.S. optical brick-and-mortar retail industry (Highmark Inc.)  acquired Davis Vision in 1996.
+“Company History,” EyeMed Vision Care, http://portal.eyemedvisioncare.com/  wps/portal/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIt3YxNPL3dDQ0sLJxNDIx8wjw8Df1CjQ2CDfQLs h0VAR_SNcI!/, accessed February 2012; and “Davis Vision History,” Davis Vision, http://www.davisvision.
+com/Davis-Vision-History/, accessed February 2012.
+Glasses & Contacts Wholesaling in the US,” IBISWorld, May 2011, p.
+4, IBISWorld.com, accessed February 2012.
+launched a program in which it donates one pair of eyeglasses for every pair of private-label eyeglasses  purchased; see “Online eyewear company to ‘Change the View’ for millions around the world,” PRNewswire,  March 30, 2011, http://investors.coastalcontacts.com/Press-Room/News-Releases/Press-Release-Details/2011/
+Online-eyewear-company-to-Change-the-View-for-millions-around-the-world1124687/default.aspx, accessed  February 2012.
+http://www.siliconprairienews.com/2011/06/big-omaha-video-series-neil-blumenthal-of-warby-parker-1,  accessed January 2012.
+articles/the-warby-parker-story/, accessed January 2012.
+http://www.nytimes.com/2011/08/18/business/smallbusiness/young-entrepreneur-sees-little-help-in- washington.html, accessed January 2012.
+June 1, 2010, http://www.globenewswire.com/newsroom/news.html?d=193225,
+accessed January 2012.
+2011, http://www.nytimes.com/2011/01/17/technology/17glasses.htmlm, accessed January 2012.
+prescription-glasses-online/, accessed January 2012.
+_why_an_online_ret.html,
+accessed January, 2012.
+http://www.vogue.com/vogue-daily/article/warby-parker-takes-over-the-new-york-public-library/, accessed  January 2012.
+http://racked.com/archives/2011/06/03/blueflys-eyefly-rips-off-idea-steals-warby-parkers-product-
+photos.php, accessed January 2012.
+eye-opener,” Chicago Tribune, July 22, 2007, http://www.chicagotribune.com/business/yourmoney/chi-ym- spending-0722jul22,0,2050256.story, accessed January 2012.
+Glasses.com, and Coastal Contacts (9.2% market share) acquired Justeyewear.com.
+See Janet Shim, “IBISWorld  Industry Report OD5089.
+Online Eyeglasses & Contact Lens Sales in the US,” IBISWorld, December 2011, pp.
+24– 26, IBISWorld.com, accessed February 2012.
+Borrowing From Apple, Zappos,” AdvertisingAge, November 28, 2011, http://adage.com/article/special-report- americas-hottest-brands/america-s-hottest-brands-2011-warby-parker/231157/, accessed February 2012.
+became a certified B Corporation in May 2011.
+See “About Warby Parker,” Certified B Corporation,  http://www.bcorporation.net/warbyparker, accessed January 2012.
+2011?utm_source=The+Spectacular+Warby+Parker+Email+List&utm_campaign=39b251eaa8-C_AnnualReport- 01_25_2012&utm_medium=email&mc_cid=39b251eaa8&mc_eid=46bfc05bcc, accessed February 2012.
+http://www.forbes.com/sites/helencoster/2011/11/30/forbes-list-of-the-top-30-social-entrepreneurs/,  accessed January 2012.
+Spring-At-A-Glance.pdf,
+accessed January 2012.
+VisionSpring and William Davidson Institute, December 20, 2010,   http://www.visionspring.org/newscenter/  downloads/news/scojo_news_876.pdf,
+accessed January 2012.
+organization” with main operations in Guatemala, Ecuador, and Nicaragua, as of January 2012.
+See “Our Story,”  Community Enterprise Solutions, http://www.cesolutions.org/ourstory.html,
+accessed March 2012.
+with Fashion-Forward International Advocacy,” PR Newswire, June 13, 2011, http://www.prnewswire.com/  news-releases/warby-parker-and-invisible-children-launch-limited-edition-sunglasses-kicking-off-the-summer- season-with-fashion-forward-international-advocacy-123734244.html, accessed February 2012.
